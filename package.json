@@ -1,7 +1,7 @@
 {
   "name": "chat-app-reactjx",
   "version": "0.1.0",
-  "homepage": "https://aunsyedshah.github.io/dialogflow-chatapp",
+  "homepage": "https://aunsyedshah.github.io/react-dialogflow",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
